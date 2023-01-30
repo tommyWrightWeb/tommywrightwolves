@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @tommywrightwolves
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Tommy... Recent Computer Science University Graduate 
+- 👀 I’m interested in Computer Games, coding, naps and fooooood
+- 🌱 I’m currently learning Javascript/React
+- 📫 How to reach me:  thomas.wright.web@gmail.com
+- 
+- 
 
 <!---
 tommywrightwolves/tommywrightwolves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
